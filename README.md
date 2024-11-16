@@ -1,6 +1,6 @@
 # labpy04
 Nama : Riswan Satria Juniarto <p>
-NIM : 312410 <p>
+NIM : 312410546 <p>
 Kelas : TI.24.A.5 <p>
 Mata Kuliah : Bahasa Pemrograman <p>
 # Menambahkan data ke dalam sebuah list:
@@ -8,7 +8,7 @@ Mata Kuliah : Bahasa Pemrograman <p>
 ![gambar 2](ss1.png)
 ### ```Alur Algoritma```
 1. Start (Mulai):
--Program dimulai.
+- Program dimulai.
 2. Inisialisasi List **data_mahasiswa**:
 - Membuat list **data_mahasiswa** untuk menyimpan data mahasiswa.
 3. Input Data Mahasiswa:
